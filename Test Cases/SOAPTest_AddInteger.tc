@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SOAPTest_AddInteger</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e658c20b-24d6-4245-a8e5-e564f7f17827</testCaseGuid>
+</TestCaseEntity>

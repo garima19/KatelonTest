@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ReqRes_Chaining_XML_Groovy</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>990e4f6b-df05-451d-9233-fd4e59dcc110</testCaseGuid>
+</TestCaseEntity>

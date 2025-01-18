@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ReqResponseChanining_JSON_Groovy</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>19c31e87-75b8-47c5-b58b-d4d4e7ddda81</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TestSuite1</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>091b91a8-b098-46a8-bb13-a88cf3514e73</testSuiteGuid>
+   <testCaseLink>
+      <guid>7f6a853a-3565-4a3f-b63e-5dde126a6dbc</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/DataDrivenDemo</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>ea98fb68-f879-4a91-a65e-0623c4ae3dbc</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/TestDate1</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>ea98fb68-f879-4a91-a65e-0623c4ae3dbc</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>CountryName</value>
+         <variableId>427581f2-4974-4b74-bb76-2c49cf72e032</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>ea98fb68-f879-4a91-a65e-0623c4ae3dbc</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>CountryCode</value>
+         <variableId>db61bb5d-c056-4aad-a022-c5c2e3d1340f</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>ea98fb68-f879-4a91-a65e-0623c4ae3dbc</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>CapitalCity</value>
+         <variableId>ee79b0a5-a211-4e08-8c9b-b11996a32e71</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>ea98fb68-f879-4a91-a65e-0623c4ae3dbc</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>CurrencyName</value>
+         <variableId>8283eed6-74e0-4f66-b5f4-4ae9a541c2b6</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

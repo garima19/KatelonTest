@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>RestAPITest_GetUserList</description>
+   <name>RestAPITest_GetUserList</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5512b699-2a2b-460f-8198-c709edbde3b0</testCaseGuid>
+</TestCaseEntity>
